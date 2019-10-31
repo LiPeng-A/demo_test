@@ -1,0 +1,5 @@
+com\leyou\gateway\config\JwtProperties.class
+com\leyou\LyGateway.class
+com\leyou\gateway\config\FilterProperties.class
+com\leyou\gateway\filters\AuthFilter.class
+com\leyou\gateway\config\GlobalCorsConfig.class

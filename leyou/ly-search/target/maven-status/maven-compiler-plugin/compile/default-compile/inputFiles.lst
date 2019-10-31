@@ -1,0 +1,13 @@
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\client\GoodsClient.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\pojo\SearchResult.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\LySearchApplication.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\mq\ItemListener.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\client\SpecificationClient.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\repository\GoodsRepository.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\service\SearchService.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\pojo\SearchRequest.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\client\BrandClient.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\client\CategoryClient.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\service\impl\SearchServiceImpl.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\pojo\Goods.java
+F:\Test_Maven\leyou\ly-search\src\main\java\cmo\leyou\search\web\SearchController.java

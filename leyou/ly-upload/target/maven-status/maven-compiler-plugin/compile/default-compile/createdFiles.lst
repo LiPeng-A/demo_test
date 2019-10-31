@@ -1,0 +1,4 @@
+com\leyou\upload\service\impl\UploadServiceImpl.class
+com\leyou\upload\web\UploadController.class
+com\leyou\upload\service\UploadService.class
+com\leyou\UploadApplication.class
